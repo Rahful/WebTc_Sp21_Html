@@ -4,7 +4,7 @@
 <h1>Task 3</h1>
 <?php
  $length = 10;  
- $width = 12;
+ $width = 10;
  echo "Area is $length * $width= " . ($length * $width) . "<br />";
  echo "Perimeter is $length * $width= " . (2*($length + $width)) . "<br />";
  if($length === $width){
