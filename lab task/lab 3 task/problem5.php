@@ -6,7 +6,7 @@
 $backColor="green"; $fontColor="red"; $imageWidth="70px"; $imageHeight="70px";
 ?>
 <img src="aiub_logo.png" width="$imageWidth" height="$imageHeight" />
-<h2>American International University -<span style="background-color:red;color:cyan">
+<h2>American International University -<span style="background-color:$backColor;color:$fontColor">
 Bangladesh</h2>
 </span>
 </body>
